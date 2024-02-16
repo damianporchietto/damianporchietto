@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-🚀 Proactive individual always seeking new challenges and opportunities to grow and develop skills.
+🚀 Proactive individual always seeking new challenges and opportunities to grow and develop skills.\n
 💡 Possess a unique combination of traits including flexibility, creativity, and strong teamwork abilities.
 💻 Advanced student in Artificial Inteligence and Computer Engineering with hands-on experience in software development.
 🌐 Expertise in web technologies such as HTML, CSS, JavaScript, and frameworks like Angular.
