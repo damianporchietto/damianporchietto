@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ```
 🚀 Proactive individual always seeking new challenges and opportunities to grow and develop skills.
 💡 Possess a unique combination of traits including flexibility, creativity, and strong teamwork abilities.
-💻 Advanced student in Artificial Inteligence and Computer Engineering with hands-on experience in software development.
+💻 Artificial Inteligence and Computer Engineer with hands-on experience in software development.
 🌐 Expertise in web technologies such as HTML, CSS, JavaScript, and frameworks like Angular.
 🤖 Experience in embedded systems projects and Robotic Process Automation (RPA).
 🎯 Passionate about software development, staying updated with the latest technologies and trends.
