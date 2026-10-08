@@ -32,6 +32,6 @@ The rest lives at **[dporchietto.com.ar](https://dporchietto.com.ar/)**
 
 Type `about` once inside. Or `help`, if you are lost.
 
-[Site](https://dporchietto.com.ar/) · [About](https://dporchietto.com.ar/about) · [LinkedIn](https://www.linkedin.com/in/dporchietto/)
+[Site](https://dporchietto.com.ar/) · [About](https://dporchietto.com.ar/?cmd=about) · [LinkedIn](https://www.linkedin.com/in/dporchietto/)
 
 </div>
