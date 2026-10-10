@@ -34,4 +34,37 @@ Type `about` once inside. Or `help`, if you are lost.
 
 [Site](https://dporchietto.com.ar/) · [About](https://dporchietto.com.ar/?cmd=about) · [LinkedIn](https://www.linkedin.com/in/dporchietto/)
 
+<br />
+
+<a href="https://hbweb.ar"><img src="https://hbweb.ar/banner-hbweb-468x60.png" alt="Helbreath Web - play Helbreath in your browser" width="468" height="60" /></a>
+
+<pre>
+            H E L B R E A T H   W E B             &#160;
+                                                  &#160;
+The 2003 MMORPG Helbreath (Heldenian), rebuilt    &#160;
+from scratch to run 100% in the browser. No       &#160;
+client, no installer, no patcher: open hbweb.ar   &#160;
+and play.                                         &#160;
+                                                  &#160;
+A full TypeScript port: authoritative Node.js     &#160;
+game server, WebGL client and the original binary &#160;
+protocol over WebSockets, with content-hashed     &#160;
+assets and a direct low-latency socket route.     &#160;
+                                                  &#160;
+A living world: server-side AI players whose      &#160;
+combat policy was tuned by evolutionary           &#160;
+optimization over 285,000 simulated battles. They &#160;
+level up, train skills, form squads, defend       &#160;
+allies and raid enemy players under anti-abuse    &#160;
+limits.                                           &#160;
+                                                  &#160;
+Classic Aresden vs Elvine PvP, crusades, guilds,  &#160;
+hero sets with full-set auras and powers, spell   &#160;
+particles, an active-effects panel and modern QoL.&#160;
+                                                  &#160;
+             - play free at hbweb.ar -            &#160;
+</pre>
+
+**[Play at hbweb.ar](https://hbweb.ar)**
+
 </div>
