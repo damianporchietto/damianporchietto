@@ -63,7 +63,6 @@ Classic Aresden vs Elvine PvP, crusades, guilds,  &#160;
 hero sets with full-set auras and powers, spell   &#160;
 particles, an active-effects panel and modern QoL.&#160;
                                                   &#160;
-            - play free at hbweb.ar -             &#160;
 </pre>
 
 **[Play at hbweb.ar](https://hbweb.ar)**
